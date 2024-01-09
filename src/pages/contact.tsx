@@ -1,15 +1,15 @@
 import Head from 'next/head'
 import React from 'react';
 
-export default function Home() {
+export default function PortfolioPage() {
     return (
     <React.Fragment>
         <Head>
-            <title>Home</title>
+            <title>Contact</title>
         </Head>
 
         <div>
-            Index Page
+            Contact Page
         </div>
     </React.Fragment>
     )
